@@ -1,0 +1,6 @@
+﻿  Board.cpp
+C:\Users\Inbar Derei\source\repos\BattleGame\BattleGame\Print.h(13,19): error C2061: syntax error: identifier 'Board'
+  BoardCell.cpp
+  main.cpp
+  Player.cpp
+  Print.cpp
